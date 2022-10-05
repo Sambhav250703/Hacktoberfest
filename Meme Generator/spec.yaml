@@ -3,7 +3,7 @@ tags: ['HTML/CSS', 'JavaScript']
 starter-files: https://github.com/Sambhav250703/Hacktoberfest-codedamn
 type: frontend
 level: hard
-cover-image: ![ss](https://user-images.githubusercontent.com/98278731/194004335-715f51ff-63fe-4bc7-bfa2-db5471851ca7.png)
+cover-image: https://user-images.githubusercontent.com/98278731/194004335-715f51ff-63fe-4bc7-bfa2-db5471851ca7.png
 short-description: A working meme generator page whicg generate memes based on HTML, CSS and JavaScript.
 long-description: |
     In this project, you're supposed to build a meme generator page. This includes the following features:
